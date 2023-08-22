@@ -1,5 +1,5 @@
 # InventoryConnector ES
-Este proyecto representa una versión miniaturizada de un sistema ERP, diseñado para ofrecer una visión simplificada de un entorno de planificación de inventario. 
+Este proyecto representa una versión simple de un sistema ERP, diseñado para ofrecer una visión simplificada de un entorno de planificación de inventario. 
 El proyecto se apoya en el patrón de arquitectura Modelo-Vista-Controlador (MVC) para organizar su estructura y en las operaciones CRUD (Create, Read, Update, Delete) 
 para gestionar articulos de manera simple y efectiva.
 
