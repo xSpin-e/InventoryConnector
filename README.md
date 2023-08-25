@@ -10,4 +10,6 @@ operations to manage articles in a straightforward and effective manner.
 
 
 ![Captura desde 2023-08-25 11-06-40](https://github.com/xSpin-e/InventoryConnector/assets/98320056/5421e55a-f93a-479e-b8e8-8d8349426c90)
-
+![Captura desde 2023-08-25 11-05-07](https://github.com/xSpin-e/InventoryConnector/assets/98320056/ae5628e7-84dc-4f0c-b10a-adc2132c9729)
+![Captura desde 2023-08-25 11-07-35](https://github.com/xSpin-e/InventoryConnector/assets/98320056/3cb6e11c-7809-4af9-8fe0-c78fa54b79cf)
+![Captura desde 2023-08-25 11-01-16](https://github.com/xSpin-e/InventoryConnector/assets/98320056/4e6e3b5d-edcd-400b-a81e-13d887df1777)
